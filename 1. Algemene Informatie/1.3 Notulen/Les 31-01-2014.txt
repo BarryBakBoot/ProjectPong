@@ -1,0 +1,43 @@
+ONTWERPDOCUMENT
+
+Maken van keuze voor een component
+
+- opstellen criteria
+- opties
+- voor- en nadelen [beoordelen]
+- keuze maken
+
+
+
+
+RTOS: Real Time Operating System
+	- Zorgt voor de juist timing factor!	[bv: pacemaker]
+
+
+
+
+
+
+Specificatie document
+
+Blokschema 1 blok: wat er in gaat en wat er uit komt
+liefst een schets van het eindresultaat
+
+
+Functionele spec: Wat? --> Use case diagram
+systeem moet dit doen
+
+
+Operationele spec
+gebruiker moet dit doen
+
+
+
+
+
+
+Ontwerp document
+
+Hoe? Inzoomen op het blokschema --> 
+
+Tijdens het document steeds inzoomen en keuzes maken.

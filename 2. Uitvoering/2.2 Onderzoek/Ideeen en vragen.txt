@@ -1,0 +1,75 @@
+Vragen
+
+
+Specificaties draadloos?
+- soort netwerk? verbinding?
+- Soort handeling met het batje. Mikken of echt bewegen?
+
+
+HARDWARE (OPSTELLING)
+2 VGA monitoren
+2 batjes ()
+1 Besturingskast
+(Voeding)
+
+Voeding
+230V?
+Afzekeren?
+
+Connecties
+Besturingskast VGA
+- FGPA
+- met behulp van VHDL
+
+besturingskast batjes
+- draadloos
+- Wat voor vorm? (meshnetwerk, 1 op 1, master slave)
+- Het bereik van de batjes
+
+
+Hardware
+Batjes
+- Gyroscoop?
+- Calibreren
+- camera???
+- Accelerometer??
+- Aan/uit knop
+- Connect/stop/play/pauze?
+- Microcontroller? en tranciever
+- Batterij? oplaadbaar, verwisselbaar? accu?
+- Gevoeligheid instelbaar
+
+Besturingskast
+- Moederbord
+- Microcotroller?
+- Recievers (Los bij de kast of ingebouwd)
+- Aan uit knop
+- Geluid?
+- geheugen? (permanent?)
+- Afmetingen en behuizing
+- Tweede vga aansluiting
+
+
+Beeldscherm
+- aan uit.
+
+
+SOFTWARE
+
+- speelt zich af in een 3d tunnel
+- Puntensysteem
+- Levels?
+- kaatsen van de bal (hoe verder van het midden hoe groter de hoek).
+	(Hoek inval = hoek uitval)(hoek terugkaatsen bepaald op raakplek batje)
+- Bestuurbaar plateau/batje
+- een of meerdere ballen?
+- power ups?
+- snelheid van de bal? (naarmate het langer doorgaat)
+- Computer tergenstander (AI?)
+- Geluid
+- Menu?
+- Winnaar blijft staan tot reset
+- High score
+- Naam speler??
+- Hockey?????
+	

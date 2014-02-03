@@ -1,0 +1,41 @@
+KWALITEIT
+
+specificatie
+team
+versiebeheer
+testen
+review
+planning
+
+
+Versiebeheer --> GIT(HUB) --> SVN
+
+releasenote
+
+- Componenten
+- Documentatie
+- Code
+- Tests
+- Tools
+
+
+
+Repository
+
+
+
+
+1e opdracht functioneel testen --> klein excel lijstje
+2e opdracht ontwikkelcyclus tijd voor nemen --> iets wat opleverd ook laten zien dat het getest is
+
+
+
+
+TESTEN
+
+Req						Functioneel test
+
+					Integratie test --> lijstje	
+
+		Module	Unit --> lijstje
+
