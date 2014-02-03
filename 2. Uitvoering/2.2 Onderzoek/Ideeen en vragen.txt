@@ -73,12 +73,3 @@ SOFTWARE
 - Naam speler??
 - Hockey?????
 
-Test1
-test hallo!
-
-<<<<<<< HEAD
-Test 2 houdoe
-=======
-test 3 nee
->>>>>>> 47bf70117d8542fedaa3a64a61c5718c2de25c75
-
